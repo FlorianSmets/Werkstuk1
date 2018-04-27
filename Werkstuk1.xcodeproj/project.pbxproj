@@ -15,6 +15,7 @@
 		3FB855D320934CCE00DE48DC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FB855D120934CCE00DE48DC /* LaunchScreen.storyboard */; };
 		3FB855DE20934CCE00DE48DC /* Werkstuk1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB855DD20934CCE00DE48DC /* Werkstuk1Tests.swift */; };
 		3FB855E920934CCE00DE48DC /* Werkstuk1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB855E820934CCE00DE48DC /* Werkstuk1UITests.swift */; };
+		3FB855F72093545300DE48DC /* Werkstuk1 in Resources */ = {isa = PBXBuildFile; fileRef = 3FB855F62093545300DE48DC /* Werkstuk1 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3FB855E420934CCE00DE48DC /* Werkstuk1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Werkstuk1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FB855E820934CCE00DE48DC /* Werkstuk1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Werkstuk1UITests.swift; sourceTree = "<group>"; };
 		3FB855EA20934CCE00DE48DC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FB855F62093545300DE48DC /* Werkstuk1 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Werkstuk1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				3FB855C420934CCE00DE48DC /* Werkstuk1 */,
+				3FB855F62093545300DE48DC /* Werkstuk1 */,
 				3FB855DC20934CCE00DE48DC /* Werkstuk1Tests */,
 				3FB855E720934CCE00DE48DC /* Werkstuk1UITests */,
 				3FB855C320934CCE00DE48DC /* Products */,
@@ -237,6 +240,7 @@
 			files = (
 				3FB855D320934CCE00DE48DC /* LaunchScreen.storyboard in Resources */,
 				3FB855D020934CCE00DE48DC /* Assets.xcassets in Resources */,
+				3FB855F72093545300DE48DC /* Werkstuk1 in Resources */,
 				3FB855CB20934CCE00DE48DC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
